@@ -1,4 +1,4 @@
-### Converter
+## Currency Converter
 Node js command line app to convert currencies.  
 This is a simple scraper that converts currencies for you.
 <div align="center"> 
@@ -6,4 +6,6 @@ This is a simple scraper that converts currencies for you.
 </div>  
 
 ## Install
-``` npm i node-currency-converter --save ```
+```
+ npm i node-currency-converter --save 
+```

@@ -1,5 +1,5 @@
 {
-  "name": "currency-converter",
+  "name": "node-currency-converter",
   "version": "1.0.0",
   "description": "Currency ",
   "main": "index.js",
