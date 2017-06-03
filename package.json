@@ -1,0 +1,17 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "Currency ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hosein2398 <hosein2398@gmail.com> (google.com)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
