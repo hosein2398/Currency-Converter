@@ -1,9 +1,8 @@
-sudo: false # http://docs.travis-ci.com/user/workers/container-based-infrastructure/
 language: node_js
+cache:
+  directories:
+  - node_modules
 node_js:
-  - 0.12
-  - 4
-  - 5
-  - 6
-
-script: "npm test"
+    - "6"
+    - "5"
+    - "4"
