@@ -1,4 +1,4 @@
-## Currency Converter
+## Currency Converter [![Build Status](https://travis-ci.org/hosein2398/Currency-Converter.svg?branch=master)](https://travis-ci.org/hosein2398/Currency-Converter)
 Node js command line app to convert currencies.  
 This is a simple scraper that converts currencies for you.
 <div align="center"> 
@@ -181,4 +181,13 @@ YER	Yemen Rial
 ZAR	South Africa Rand      
 ZMW	Zambia Kwacha     
 ZWD	Zimbabwe Dollar   
+
+## Test
+
+To test run:
+```
+npm test
+```
+
+
  
