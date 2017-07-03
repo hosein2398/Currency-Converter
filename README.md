@@ -12,7 +12,9 @@ This is a simple scraper that converts currencies for you.
 
 ## Usage
 
-+ Run index.js  
++ Download package
++ Create a js file and require package in that (`require("node-currency-converter")`)
++ Run that file in console 
 + Write down how much money you want to convert
 + Write down code of the the currency you want to convert from
 + Write down code of the the currency you want to convert to
