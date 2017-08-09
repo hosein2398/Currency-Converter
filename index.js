@@ -4,7 +4,7 @@
   var colors = require('colors');
 function run(){
   prompt.start();
-  prompt.get(['How much ?', 'What do you want to conver form?', 'What do you want to conver to?'], function (err, result) {
+  prompt.get(['How much ?', 'What do you want to convert from?', 'What do you want to convert to?'], function (err, result) {
     // var much = result[Object.keys(result)[0]];
     var one = result[Object.keys(result)[1]].toUpperCase(); // || are for tests
     var two = result[Object.keys(result)[2]].toUpperCase();
